@@ -2,7 +2,7 @@
 
 A simple and interactive **Tic-Tac-Toe** game for 2 players, built using **HTML**, **CSS**, and **JavaScript**.
 
-🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/Tic-Tac-Toe/)  
+🔗 **Live Demo**: [Play Now](https://amirsuhail21.github.io/Tik-Tak-Toe/)  
 📁 **Project Name:** Tic-Tac-Toe
 
 ---
