@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #6da34d;
+    background-color: #d6ccc2;
     text-align: center;
 }
 
@@ -89,4 +89,18 @@ div{
 #tik{
     color: brown;
     font-size: 10vmin;
+}
+
+
+
+
+
+.credit{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 3.5vmin;
+    font-weight: 900;        /* Extra bold */
+    color: black;
+    font-family: 'Arial Black', 'Segoe UI', sans-serif;
 }
