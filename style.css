@@ -7,16 +7,19 @@ body{
     background-color: #d6ccc2;
     text-align: center;
     flex-direction: column;
+    margin-top: 50px;
 }
 
 h1{
     font-size: 8vmin;
 }
 .container{
-    height: 60vh;
+    height: 30vh;
     display: flex;
     justify-content: center;
     justify-items: center;
+    margin-top: 20px;
+    margin-bottom: 180px;
 }
 
 .game{
@@ -55,8 +58,9 @@ h1{
     border-radius: 0.6rem;
     border: none;
     background-color: #473335;
-    color: white;
+    color: rgb(255, 255, 255);
     margin: 8px;
+    margin-top: 30px;
 
 }
 
@@ -102,3 +106,25 @@ div{
     color: black;
     font-family: 'Arial Black', 'Segoe UI', sans-serif;
 }
+
+.credit {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 75px;
+  margin-right: 10px;
+  margin-bottom: 4px;
+
+}
+
+.credit-icon {
+  width: 30px;      
+  height: 30px;    
+  border-radius: 50%; 
+}
+
+
+/*  */
+
