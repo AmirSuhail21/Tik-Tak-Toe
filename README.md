@@ -26,5 +26,6 @@ A simple and interactive **Tic-Tac-Toe** game for 2 players, built using **HTML*
 
 ## 📸 Screenshot
 
-<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/b839e0ab-295a-4ae5-b364-add90d679fcc" />
+<img <img width="1365" height="632" alt="Screenshot 2025-09-18 104554" src="https://github.com/user-attachments/assets/942b32e1-13fa-4964-9bf6-ab9d376735b1" />
+/>
 
